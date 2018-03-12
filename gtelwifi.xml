@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <manifest>
+
+        <project name="olliiiver/android_device_samsung_gtelwifi" path="device/samsung/gtelwifi" remote="github" revision="cm-14.1" />
+        <project name="olliiiver/android_kernel_samsung_gtelwifi" path="kernel/samsung/gtelwifinew" remote="github" revision="cm-14.1" />
+        <project name="olliiiver/android_vendor_samsung_gtelwifi" path="vendor/samsung/gtelwifi" remote="github" revision="cm-14.1" />
+        <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1"/>
+
+        <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
+
+    </manifest>
